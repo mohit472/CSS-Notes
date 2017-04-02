@@ -230,3 +230,87 @@ padding-bottom: length percentage;
 
 #NOTE:will also work same as margins.
 
+
+                            ________________________
+                            
+                            CSS TEXT PROPERTIES
+                            _______________________
+                            
+1 . COLOR
+        color: value;
+
+
+color name - example:(red, black...)
+hexadecimal number - example:(#ff0000, #000000)
+RGB color code - example:(rgb(255, 0, 0), rgb(0, 0, 0))
+
+
+
+
+2 . Letter Spacing
+
+            letter-spacing: value;
+
+Possible values are
+    normal
+    length
+
+    
+3 . Text Align
+
+        text-align: value;
+
+    Possible values are
+left
+right
+center
+justify
+
+
+4 . Text Decoration
+
+    text-decoration: value;
+
+    Possible values are
+none
+underline
+overline
+line through
+blink
+
+5 . Text Indent
+
+    text-indent: value;
+
+Possible values are
+length
+percentage
+
+6 . Text Transform
+    
+    text-transform: value;
+
+Possible values are
+none
+capitalize
+lowercase
+uppercase
+
+7 . White Space
+    
+    white-space: value;
+
+Possible values are
+normal
+pre
+nowrap
+
+
+8 . Word Spacing
+
+    word-spacing: value;
+
+Possible values are
+normal
+length
+
