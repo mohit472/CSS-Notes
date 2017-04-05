@@ -314,3 +314,39 @@ Possible values are
 normal
 length
 
+                    
+                                ________________________
+                                CSS Font Properties
+                                ________________________
+                                
+
+1 . Font
+
+    font-family: Verdana, sans-serif;
+
+2 . Font Size
+
+    font-size: value;
+
+There are alot of choices for values:
+xx-large
+x-large
+larger
+large
+medium
+small
+smaller
+x-small
+xx-small
+length
+% (percent)
+
+
+3 . Font Style
+
+ font-style: value;
+
+Possible values are
+normal
+itailc
+oblique
