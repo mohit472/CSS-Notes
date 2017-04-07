@@ -4,10 +4,14 @@
  > A CSS (cascading style sheet) file allows you to separate your web sites HTML content from its style. As always you use your HTML file to      arrange the content, but all of the presentation (fonts, colors, background, borders, text formatting, link effects & so on...) are  accomplished within a CSS. At this point you have some choices of how to use the CSS, either internally or externally.
         
             3 Methods to add CSS.
-                These are :
-    ___________________
-1.  Internal Stylesheet: 
-    ___________________
+           
+            These are :
+        
+        ___________________
+1.              
+        Internal Stylesheet: 
+        ___________________
+
 <head>
 <title><title>
 <style type="text/css">
@@ -18,8 +22,10 @@
 		//body text
 </body>
 
+    
     ___________________ 
-2.  External Stylesheet
+2.      
+    External Stylesheet
     ___________________
     
 <head>
@@ -32,6 +38,7 @@ stylesheet.css" />
 stylesheet.css)</style>
 
 #NOTE:
+
 //The css path should be saved  as another file filename.css and should be included in the head section by singular tag link. 
 
 Example:
@@ -41,7 +48,10 @@ Example:
 <link rel="stylesheet" type="text/css"href="style.css" />
 </head>
 <body>
-or
+
+    
+            or
+
 
 <head>
 <title><title>
