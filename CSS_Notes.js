@@ -360,3 +360,34 @@ Possible values are
 normal
 itailc
 oblique
+
+
+4 . Font Variant
+
+        font-variant: value;
+
+    Possible values are
+normal
+small-caps
+
+
+5 . Font Weight
+
+    font-weight: value;sics.com/printfull2.html
+Possible values are
+lighter
+normal
+100
+200
+300
+400
+500
+600
+700
+800
+900
+bold
+bolder
+
+
+6 . 
